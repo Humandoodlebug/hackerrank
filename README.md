@@ -1,1 +1,1 @@
-# hackerrank
+Some solutions to hackerrank challenges.
